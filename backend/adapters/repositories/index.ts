@@ -1,0 +1,1 @@
+export { createProductRepositoryAdapter } from './ProductRepositoryAdapter';
