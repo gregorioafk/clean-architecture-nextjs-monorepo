@@ -128,7 +128,7 @@ export default function Home() {
       <footer className="pb-12 px-4 border-t border-gray-800 pt-8">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gray-400 mb-3">
-            Creado por <span className="text-white font-medium">Miguel Angel Rojas</span>
+            Creado por <span className="text-white font-medium">Miguelangel Rojas</span>
           </p>
           <div className="flex justify-center gap-4">
             <a

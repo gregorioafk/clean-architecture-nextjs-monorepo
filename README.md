@@ -60,13 +60,13 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 ## Secciones principales
 
-| Ruta | Descripción |
-|------|-------------|
-| `/` | Home con cards de navegación |
-| `/clean-architecture` | Explicación de las 4 capas |
-| `/arquitecturas` | Escalabilidad: MVP → Monorepo |
-| `/learn` | Guía completa de Next.js |
-| `/api/products` | API REST de ejemplo |
+| Ruta                  | Descripción                   |
+| --------------------- | ----------------------------- |
+| `/`                   | Home con cards de navegación  |
+| `/clean-architecture` | Explicación de las 4 capas    |
+| `/arquitecturas`      | Escalabilidad: MVP → Monorepo |
+| `/learn`              | Guía completa de Next.js      |
+| `/api/products`       | API REST de ejemplo           |
 
 ## Tecnologías
 
@@ -75,13 +75,9 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 - **Tailwind CSS** - Estilos
 - **Bun** - Runtime y package manager
 
-## Template reutilizable
-
-Revisa [TEMPLATE.md](./TEMPLATE.md) para crear proyectos similares con otros frameworks (Nuxt, SvelteKit, Remix, Astro).
-
 ---
 
-Creado por **Miguel Angel Rojas**
+Creado por **Miguelangel Rojas**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gregorioafk-black?logo=github)](https://github.com/gregorioafk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelangelgrojas-blue?logo=linkedin)](https://www.linkedin.com/in/miguelangelgrojas/)
